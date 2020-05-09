@@ -1,0 +1,16 @@
+{
+  "ref_block_num": 4043,
+  "ref_block_prefix": 4053689405,
+  "expiration": "2020-05-09T19:26:30",
+  "operations": [[
+      "transfer",{
+        "from": "nettybot",
+        "to": "netuoso",
+        "amount": "1.01 HIVE",
+        "memo": ""
+      }
+    ]
+  ],
+  "extensions": [],
+  "signatures": []
+}
